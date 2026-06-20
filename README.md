@@ -103,13 +103,13 @@ The schema is fully normalized to **Third Normal Form (3NF)**:
 
 ## 📊 Deliverables
 
-### 1. ER Diagram (`Vidyanidhi_University_ER_Diagram.pdf`)
+### 1. ER Diagram 
 - Visual relational schema of all 22 entities
 - Entities grouped into logical zones: Academic Structure, Exam Infrastructure, Students & Registration, Performance & Results, Finance, and Staffing
 - PK (Primary Key), FK (Foreign Key) annotations on every table
 - Cardinality labels (1 and M) on every relationship line
 
-### 2. Table Structure Excel (`Vidyanidhi_University_Database_Design.xlsx`)
+### 2. Table Structure Excel 
 The Excel workbook contains four sheets:
 
 | Sheet | Contents |
@@ -119,7 +119,7 @@ The Excel workbook contains four sheets:
 | **Relationships** | Every parent-child relationship with cardinality and the business rule behind it (29 relationships total) |
 | **Normalization** | How 1NF, 2NF, and 3NF were applied, plus key design decisions explained |
 
-### 3. Mermaid Table Definitions (`Vidyanidhi_Mermaid_Table_Definitions.pdf`)
+### 3. Mermaid Table Definitions
 - Ready-to-use table definitions reference document
 - Colour-coded: PK in red, FK in blue, Unique Keys in green
 - Companion to the Mermaid ER diagram code
